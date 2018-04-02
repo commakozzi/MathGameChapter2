@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    // Theme Colors
+    <color name="colorBackground">#000000</color>
+    <color name="colorPrimaryOrange">#FF6800</color>
+    <color name="colorButtons">#DCDEEA</color>
+    <color name="colorButtonStartColor">#FF6800</color>
+    <color name="colorButtonEndColor">#FF8000</color>
+
+</resources>
